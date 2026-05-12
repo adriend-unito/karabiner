@@ -4,7 +4,7 @@
             "complex_modifications": {
                 "rules": [
                     {
-                        "description": "Silakka58: CapsLock = tap Escape / hold Left Control",
+                        "description": "Silakka54: CapsLock = tap Escape / hold Left Control",
                         "manipulators": [
                             {
                                 "from": {
@@ -18,7 +18,7 @@
                         ]
                     },
                     {
-                        "description": "Silakka58: Z = tap Z / hold Left Option",
+                        "description": "Silakka54: Z = tap Z / hold Left Option",
                         "manipulators": [
                             {
                                 "from": {
@@ -32,7 +32,7 @@
                         ]
                     },
                     {
-                        "description": "Silakka58: Slash = tap / / hold Right Option",
+                        "description": "Silakka54: Slash = tap / / hold Right Option",
                         "manipulators": [
                             {
                                 "from": {
@@ -46,7 +46,7 @@
                         ]
                     },
                     {
-                        "description": "Silakka58: Right Command = tap Enter / hold Layer 2 (Mac has no inner right thumb key)",
+                        "description": "Silakka54: Right Command = tap Enter / hold Layer 2 (Mac has no inner right thumb key)",
                         "manipulators": [
                             {
                                 "from": {
@@ -76,7 +76,7 @@
                         ]
                     },
                     {
-                        "description": "Silakka58: Space = tap Space / hold Layer 1 (tap-then-hold = real space hold)",
+                        "description": "Silakka54: Space = tap Space / hold Layer 1 (tap-then-hold = real space hold)",
                         "manipulators": [
                             {
                                 "type": "basic",
@@ -131,7 +131,7 @@
                         ]
                     },
                     {
-                        "description": "Silakka58: Enter = tap Enter / hold Layer 2",
+                        "description": "Silakka54: Enter = tap Enter / hold Layer 2",
                         "manipulators": [
                             {
                                 "from": {
@@ -161,7 +161,7 @@
                         ]
                     },
                     {
-                        "description": "Silakka58 Layer 1 (Space held): F-keys, symbols, brackets",
+                        "description": "Silakka54 Layer 1 (Space held): F-keys, symbols, brackets",
                         "manipulators": [
                             {
                                 "conditions": [
@@ -826,7 +826,7 @@
                         ]
                     },
                     {
-                        "description": "Silakka58 Layer 2 (Enter held): nav, media, vim arrows",
+                        "description": "Silakka54 Layer 2 (Enter held): nav, media, vim arrows",
                         "manipulators": [
                             {
                                 "conditions": [

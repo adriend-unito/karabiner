@@ -1,8 +1,8 @@
 {
-  "title": "Silakka58 Vial Layout",
+  "title": "Silakka54 Vial Layout",
   "rules": [
     {
-      "description": "Silakka58: CapsLock = tap Escape / hold Left Control",
+      "description": "Silakka54: CapsLock = tap Escape / hold Left Control",
       "manipulators": [
         {
           "type": "basic",
@@ -13,7 +13,7 @@
       ]
     },
     {
-      "description": "Silakka58: Z = tap Z / hold Left Option",
+      "description": "Silakka54: Z = tap Z / hold Left Option",
       "manipulators": [
         {
           "type": "basic",
@@ -24,7 +24,7 @@
       ]
     },
     {
-      "description": "Silakka58: Slash = tap / / hold Right Option",
+      "description": "Silakka54: Slash = tap / / hold Right Option",
       "manipulators": [
         {
           "type": "basic",
@@ -35,7 +35,7 @@
       ]
     },
     {
-      "description": "Silakka58: Right Command = Meh (Ctrl+Shift+Alt) on hold (optional, comment out if unwanted)",
+      "description": "Silakka54: Right Command = Meh (Ctrl+Shift+Alt) on hold (optional, comment out if unwanted)",
       "manipulators": [
         {
           "type": "basic",
@@ -45,7 +45,7 @@
       ]
     },
     {
-      "description": "Silakka58: Space = tap Space / hold Layer 1",
+      "description": "Silakka54: Space = tap Space / hold Layer 1",
       "manipulators": [
         {
           "type": "basic",
@@ -58,7 +58,7 @@
       ]
     },
     {
-      "description": "Silakka58: Enter = tap Enter / hold Layer 2",
+      "description": "Silakka54: Enter = tap Enter / hold Layer 2",
       "manipulators": [
         {
           "type": "basic",
@@ -71,7 +71,7 @@
       ]
     },
     {
-      "description": "Silakka58 Layer 1 (Space held): F-keys, symbols, brackets",
+      "description": "Silakka54 Layer 1 (Space held): F-keys, symbols, brackets",
       "manipulators": [
         { "type": "basic", "conditions": [{ "type": "variable_if", "name": "silakka_layer1", "value": 1 }], "from": { "key_code": "1", "modifiers": { "optional": ["any"] } }, "to": [{ "key_code": "f1" }] },
         { "type": "basic", "conditions": [{ "type": "variable_if", "name": "silakka_layer1", "value": 1 }], "from": { "key_code": "2", "modifiers": { "optional": ["any"] } }, "to": [{ "key_code": "f2" }] },
@@ -121,7 +121,7 @@
       ]
     },
     {
-      "description": "Silakka58 Layer 2 (Enter held): nav, media, vim arrows",
+      "description": "Silakka54 Layer 2 (Enter held): nav, media, vim arrows",
       "manipulators": [
         { "type": "basic", "conditions": [{ "type": "variable_if", "name": "silakka_layer2", "value": 1 }], "from": { "key_code": "h", "modifiers": { "optional": ["any"] } }, "to": [{ "key_code": "left_arrow" }] },
         { "type": "basic", "conditions": [{ "type": "variable_if", "name": "silakka_layer2", "value": 1 }], "from": { "key_code": "j", "modifiers": { "optional": ["any"] } }, "to": [{ "key_code": "down_arrow" }] },
